@@ -14,6 +14,7 @@ O Web site **KittyWeb** é um projeto desenvolvido com propósito de ser uma fer
 #### Confira abaixo agumas imagens do WebKitty 👇
 ![print inicio](/static/prints/index.png)
 ![print cadastro](/static/prints/cadastro.png)
+![print entrar](/static/prints/entrar.png)
 ![print chat](/static/prints/chat.png)
 
 ---
