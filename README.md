@@ -12,4 +12,18 @@ O Web site **KittyWeb** é um projeto desenvolvido com propósito de ser uma fer
 ---
 
 #### Confira abaixo agumas imagens do WebKitty 👇
-<img
+![print inicio](/prints/index.png)
+![print entrar](prints/entrar.png)
+![print chat](/prints/chat.png)
+
+---
+#### 🔗Link de acesso
+>[Site o webchat](https://chat-web-kitty.onrender.com)
+
+---
+##### 🤝 Participações 
+>[Beatriz Marques](https://github.com/biaamarquess)
+>[Gabriel Thedoro](https://github.com/theodoro2115)
+>[Isabelly Dias](https://github.com/IDBaptista)
+
+
