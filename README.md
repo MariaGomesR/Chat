@@ -23,8 +23,8 @@ O Web site **KittyWeb** é um projeto desenvolvido com propósito de ser uma fer
 
 ---
 ##### 🤝 Participações 
->[Beatriz Marques](https://github.com/biaamarquess)
->[Gabriel Thedoro](https://github.com/theodoro2115)
+>[Beatriz Marques](https://github.com/biaamarquess) <br>
+>[Gabriel Thedoro](https://github.com/theodoro2115) <br>
 >[Isabelly Dias](https://github.com/IDBaptista)
 
 
